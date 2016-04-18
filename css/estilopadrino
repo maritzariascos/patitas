@@ -1,0 +1,98 @@
+body
+body
+{
+	background-image:url(../img/cariño.jpg);
+	background-size: cover;
+	background-attachment: fixed center center.
+}
+html.body
+{
+	height: 100%;
+}
+header
+{
+	display: block;
+	break-after: #286af0;
+	padding: 50px 0px;
+}
+strong
+{
+	text-align: heigt;
+	<font> 
+	color: #9c27b0; size:"40";font:="comicsam"; 
+	</font>
+}
+section
+{
+	div img 
+	position: absolute;
+	top: 50px;
+	left: 50px; 
+	width: 79%;
+	float: left;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top: 30px;
+}
+
+aside 
+{
+	float: right;
+	border: 1px solid red;
+	width: 30%;
+	border: 1px solid red;
+}
+
+nav
+{
+    width: 850px; /* Anchura del menú */
+    height: 25px; /* Altura del menú */
+    margin: 0 auto;
+    list-style: none; /* Eliminamos el puntito negro */
+    display: block;
+}
+ 
+nav ul li
+{
+    float: left; /* Alineamos los botones del menú */
+    margin: 0 5px; /* Distancia de separación entre botones */
+}
+nav ul li a, nav ul li a:link
+{
+    text-decoration: none; /* Quitamos el subrayado de los enlaces */
+    font-size: 18px; /* Tamaño del texto del menú */
+    color: #F0F8FF; /* Color del texto */
+    padding: 3px 10px; /* Establecemos ancho y alto de los botones */
+     cursor: pointer;
+    transition: all 1s linear; /* Comienzan las transiciones CSS3 */
+-moz-transition: all 1s linear;
+-webkit-transition: all 1s linear; 
+-o-transition: all 1s linear;
+background-color: #078d12; /* Color de fondo para navegadores sin soporte CSS3 */
+background: -webkit-radial-gradient(#00008B, #00FF7F); /* Degradado de fondo CSS3 */
+   background: -moz-radial-gradient(#00008B, #00FF7F); /* Degradado de fondo CSS3 */
+   -moz-border-radius: 7px 7px 0 0; /* Bordes redondeados */
+-webkit-border-radius: 7px 7px 0 0;
+}
+ 
+nav ul li a:visited, nav ul li a:active{
+    color: #ffd800; 
+}
+nav ul li a:hover{
+    background: #00008B; /* Cambiamos color de fondo cuando cursor del ratón esta encima */
+    color: #00ff90; /* Cambiamos color de texto */
+  }
+
+}
+
+footer 
+{
+    position: relative;
+    margin-top: -50px;
+    height: 40px; 
+    padding:5px 0px;
+    clear: both;
+    background: #286af0;
+    text-align: center;
+    color: #fff;
+}

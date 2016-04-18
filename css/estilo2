@@ -1,0 +1,152 @@
+*{text-indent: 15px;}
+h1 { font-family: 'Freckle Face', cursive; font-size:20px;font-weight: 400;color:white;padding-top:7px; }
+h2 { font-family: 'Freckle Face', cursive; font-size:30px;font-weight: 400;color:yellow;padding-top:15px; }
+a:link {text-decoration:none; color: #99CC00;} /* Link no visitado*/
+a:visited {text-decoration:none; color:#99CC66} /*Link visitado*/
+a:active {text-decoration:none; color:#99FF00;} /*Link activo*/
+a:hover {text-decoration:underline; color:#99FF00;} /*Mouse sobre el link*/
+body {
+     width: 100%;
+    background: #0000FF;
+    background: -webkit-linear-gradient(#0000FF, #00008B);
+background: -moz-linear-gradient(#0000FF, #00008B);
+background: -o-linear-gradient(#0000FF, #00008B);
+background: linear-gradient(#0000FF, #00008B);
+ background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center top;
+  height: 100%;
+}
+ 
+.sitio {
+    overflow: hidden;
+    margin: 0 auto;
+    width: 955px;
+    height: auto;
+     font-family: 'Risque', cursive;
+  color:white;
+  font-size:14px;
+     }
+header {
+    margin: 5px 5px 5px 0px;
+    overflow: hidden;
+    width: 918px;
+    height: 100px;
+    padding:15px;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+  -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+border-radius:7px;
+   box-shadow: 5px 4px 3px #000;
+   -webkit-box-shadow: 5px 4px 3px #000;
+   -moz-box-shadow: 5px 4px 3px #000;
+   background: #808000;
+background: -webkit-linear-gradient(#808000, #2F4F4F);
+background: -moz-linear-gradient(#808000, #2F4F4F);
+background: -o-linear-gradient(#808000, #2F4F4F);
+background: linear-gradient(#808000, #2F4F4F);
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+ 
+.contenidoprincipal {
+    text-align:justify;
+  overflow:hidden;
+  width: 942px;
+  padding: 7px 3px 0px 3px;
+    margin-top:10px;
+    background: #4B0082;
+    background: -webkit-linear-gradient(#4B0082,#800080);
+background: -moz-linear-gradient(#4B0082,#800080);
+background: -o-linear-gradient(#4B0082,#800080);
+background: linear-gradient(#4B0082,#800080);
+ background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center top;
+  -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+border-radius:7px;
+   box-shadow: 5px 4px 3px #000;
+   -webkit-box-shadow: 5px 4px 3px #000;
+   -moz-box-shadow: 5px 4px 3px #000;
+   }
+.arriba {
+    width:913px;
+  padding: 0 5px 5px 5px;
+    height:auto;
+  position:relative;
+  margin: -15px 1% 1% 1%;
+ background: #800080; 
+  -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+border-radius:15px;
+  background: -webkit-linear-gradient(#008000,#800080);
+background: -moz-linear-gradient(#008000,#800080);
+background: -o-linear-gradient(#008000,#800080);
+background: linear-gradient(#008000,#800080);
+}
+.izquierda {
+    float: left;
+  display:block;
+  padding: 0 5px 5px 5px;
+  margin-left:1%;
+  overflow:hidden;
+    width: 445px;
+    height: auto;
+    background: #800080;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+border-radius:15px;
+  background: -webkit-linear-gradient(#800080,#008000);
+background: -moz-linear-gradient(#800080,#008000);
+background: -o-linear-gradient(#800080,#008000);
+background: linear-gradient(#800080,#008000);
+}
+.derecha {
+    float: right;
+  display:block;
+  padding: 0 5px 5px 5px;
+  margin-right:1%;
+  overflow:hidden;
+    width: 445px;
+    height: auto;
+    background: #800080;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  font-family: 'Risque', cursive;
+  color:white;
+  font-size:14px;
+  -moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+border-radius:15px;
+  background: -webkit-linear-gradient(#800080,#008000);
+background: -moz-linear-gradient(#800080,#008000);
+background: -o-linear-gradient(#800080,#008000);
+background: linear-gradient(#800080,#008000);
+}
+ 
+footer {
+    margin-top: 7px;
+  margin-bottom:0px;
+  padding-bottom: 7px;
+  padding-top: 15px;
+  text-align: center;
+    width: 949px;
+ height: auto;
+    position: static;
+    border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+   -webkit-border-radius: 10px 10px 0px 0px;
+   box-shadow: 5px 4px 3px #000;
+   -webkit-box-shadow: 5px 4px 3px #000;
+   -moz-box-shadow: 5px 4px 3px #000;
+   background: #800080;
+  background: -webkit-linear-gradient(#008000,#800080);
+background: -moz-linear-gradient(#008000,#800080);
+background: -o-linear-gradient(#008000,#800080);
+background: linear-gradient(#008000,#800080);
+}

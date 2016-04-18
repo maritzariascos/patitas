@@ -1,0 +1,97 @@
+#principal
+{
+	width: 500px;
+	height: 250px;
+	background-size:  500px 250px;
+	background-repeat: no-repeat;
+	margin: auto;
+	margin-top: 5px
+	animation-name:perrunos;
+	-webkit-animation-name:perrunos;
+	-moz-animation-name:perrunos;
+	-0-animation-name:perrunos;
+	animation-duration: 5s
+	-webkit-animation-duration: 5s
+	-moz-animation-duration: 5s
+	-o-animation-duration: 5s
+	animation-iteration-count:infinite;
+	-webkit-animation-iteration-count:infinite;
+	-moz-animation-iteration-count:infinite;
+	-o-animation-iteration-count:infinite;
+}
+@keyframes principal
+{
+	
+0%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+50%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+100%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}	
+}
+@-moz-keyframes gal
+{
+	
+0%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+50%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+100%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}	
+}
+@-o-keyframes gal
+{
+	
+0%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+50%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+100%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}	
+}
+@-webkit-keyframes gal
+{
+	
+0%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+50%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}
+100%{
+		background: url(a.jpg);
+		background-size: 500px 250px;
+		background-repeat: no-repeat;
+}	
+}

@@ -1,0 +1,117 @@
+
+
+	#contenidos{
+	box-shadow:0 0 20px; rgba(255,255,255,0.5);
+	max-width:300px;
+	margin:0 auto 0 auto;
+	min-width: 1000px;
+	overflow:hidden;
+	padding:15px;
+	width: 100px;
+}
+body{
+		background-image:url(../img/fondo.jpg);
+		background-repeat: no-repeat;
+		background-size:cover;
+	}
+	h1{
+
+		font-family: 'Shadows Into Lig',cursive;
+		margin-left:10px;
+		font-size:20px;
+		color:brown;
+		text-align:center;
+		align:middle;
+		width img:1;
+		height img:1;
+			}
+	h2{
+		font-family: 'Indie Flower',cursive;
+		font-size:20px;
+		color:brown;
+		text-align:center;
+	}
+	h3{
+		font-family: 'Indie Flower',cursive;
+		margin-left:10px;
+		font-size:20px;
+		color:brown;
+		text-align:left;
+	}
+
+	header{
+		width:1000px;
+		height: 170px;
+		background:rgba(255,255,255,0.5);
+	}
+	nav{
+		width:1000px;
+		height:50px;
+		background:while;
+		border-radius: 10px;
+	}
+	ul{
+		margin:auto;
+		padding-top: 6px;
+	}
+	li{
+		float:left;
+		list-style-type: none;
+		padding:8px;
+		background:black;
+		margin:3px;
+		border-radius: 10px;
+		box-shadow: 0 0 10px white inset;
+	}
+	section{
+		width:600px;
+		background:white;
+		height: 400px;
+		float:left;
+		margin-top:7.5px;
+		border-radius: 20px;
+		color:brown;
+	}
+	aside{
+		width: 380px;
+		background:gray;
+		height: 400px;
+		float:left;
+		margin-left:20px;
+		margin-top:7.5px;
+		border-radius: 10px;
+	}
+	footer{
+		width: 1000px;
+		height: 70px;
+		background:green;
+		float:left;
+		margin-top:20px;
+		border-radius: 10px;
+		margin-botton:20px;
+	}
+	p{
+		font-size:10px;
+		font-weight:bolder;
+		line-height:10px;
+		padding:5px;
+		text-align:justify;
+			}
+
+
+
+
+
+
+
+
+	/*clases*/
+	.ancho_menu_home{width:900px;}
+	.ancho_menu_paginas{width:970px;}
+	.ancho_menu_link{color:white;text-decoration:none;}
+	.menu:visited{padding:7px;color:white;text-decoration:none;}
+.menu:hover{color:white;text-decoration:none;text-shadow:0 0 5px white;}
+.menu:active{color:white;text-decoration:none;}
+
+/*seudo clases*/
+

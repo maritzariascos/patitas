@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+ 
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Ejemplo de web html5</title>
+        <meta name="robots" content="all"/>
+        <meta content="Antonio Menchón García" name="author" />
+        <meta name="generator" content=" webmatrix2 y bloc de notas de windows"/>
+        <meta content="Ejemplo de pagina web creada con html5 y CSS" name="description" />
+<meta content="web html5, pagina web html5, html5, html5 css web," name="keywords" />
+        <!-------hoja de estilos css ---------->
+        <link rel="stylesheet" href="estilo2.css" type="text/css" />
+
+        <!-------webfonts de google ---------->
+
+        <link href='http://fonts.googleapis.com/css?family=Freckle+Face' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Risque' rel='stylesheet' type='text/css'>
+<!------- plugin para que se vea en IE ---------->
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--></head>
+    <body>
+      <section class="sitio">
+      <header><p>Esta es la cabecera, aquí puedes introducir tu logo, por ejemplo</p>
+      </header>
+          <section class="contenidoprincipal">
+          <article class="arriba"><h1>Titulo 1</h1><p>Lorem ipsum ad his scripta blandit partiendo, eum fastidii accumsan euripidis in, eum liber
+               hendrerit an. Qui ut wisi vocibus suscipiantur, quo dicit ridens inciderint id. Quo mundi lobortis reformidans
+               eu, legimus senserit definiebas an eos. Eu sit tincidunt incorrupte definitionem, vis mutat affert percipit cu,
+               eirmod consectetuer signiferumque eu per. In usu latine equidem dolores. Quo no falli viris intellegam, ut fugit
+               veritus placerat per. Ius id vidit volumus mandamus, vide veritus democritum te nec,</p></article>
+          <div class="separador"></div>
+              <article class="izquierda"><h2>Titulo 2</h2><p> ei eos debet libris consulatu. No mei ferri graeco dicunt, ad cum veri accommodare. Sed at malis omnesque delicata, usu et iusto zzril meliore. Dicunt maiorum eloquentiam cum cu, sit summo dolor essent te. Ne quodsi nusquam legendos has, ea dicit voluptua eloquentiam pro, ad sit quas qualisque. Eos vocibus deserunt quaestio ei. Blandit incorrupte quaerendum in quo, nibh impedit id vis, vel no nullam semper audiam. Ei populo graeci consulatu mei, has ea stet modus phaedrum. Inani oblique ne has, duo et pri in errem putant feugiat. Sed iusto nihil populo an, ex pro novum homero cotidieque. Te utamur civibus eleifend qui, nam ei brute doming concludaturque, modo aliquam facilisi nec no. Vidisse maiestatis constituam eu his, esse pertinacia intellegam ius cu. Eos ei odio veniam, eu sumo altera adipisci eam, mea audiam prodesset persequeris ea. Ad vitae dictas vituperata sed, eum posse labore postulant id. Te eligendi principes dignissim sit, te vel dicant officiis repudiandae. Id vel sensibus honestatis omittantur, vel cu nobis commune patrioque. In accusata definiebas qui, id tale malorum dolorem sed, solum clita phaedrum ne his. Eos mutat ullum forensibus ex, wisi perfecto urbanitas cu eam, no vis dicunt impetus. Assum novum in pri, vix an suavitate moderatius, id has reformidans referrentur. Elit inciderint omittantur duo ut, dicit democritum signiferumque eu est, ad suscipit delectus mandamus duo. An harum equidem maiestatis nec. At has veri feugait placerat, in semper offendit praesent his. Omnium impetus facilis sed at, ex viris tincidunt ius. Unum eirmod dignissim id</p></article>              <article class="derecha"><h3>Título 3</h3><p>offendit persequeris ei vim. Eos dicat oratio partem ut, id cum ignota senserit intellegat. Sit inani ubique graecis ad, quando graecis liberavisse et cum, dicit option eruditi at duo. Homero salutatus suscipiantur eum id, tamquam voluptaria expetendis ad sed, nobis feugiat similique usu ex. Eum hinc argumentum te, no sit percipit adversarium, ne qui feugiat persecuti. Odio omnes scripserit ad est, ut vidi loem uupp non epsis maiestatis his, putent mandamus gloriatur ne pro. Oratio iriure rationibus ne his, ad est corrumpit pri in errem putant feugiat. Sed iusto nihil populo an, ex pro novum homero cotidieque. Te utamur civibus eleifend qui, nam ei menchoni brute doming concludaturque, modo aliquam facilisi nec no. Vidisse maiestatis constituam eu his, esse pertinacia intellegam ius cu. Eos ei odio veniam, eu sumo altera adipisci eam, mea audiam prodesset persequeris ea. Ad vitae dictas vituperata sed, eum posse labore postulant id. Te eligendi principes dignissim sit, te vel dicant officiis repudiandae. Id vel sensibus honestatis omittantur, vel cu nobis commune patrioque. In accusata definiebas qui, id tale malorum dolorem sed, solum clita phaedrum ne his. Eos mutat ullum forensibus ex, wisi perfecto urbanitas cu eam, no vis dicunt impetus. Assum novum in pri, vix an suavitate moderatius, id has reformidans referrentur. Elit inciderint omittantur duo ut, dicit democritum signiferumque eu est, ad suscipit delectus mandamus duo. An harum equidem maiestatis nec. At has veri feugait placerat, in semper offendit praesent his. Omnium impetus facilis sed at, ex viris tincidunt ius. Unum eirmod dignissim id quo. Sit te atomorum quaerendum neglegentur, his primis tamquam et. Eu quo quot veri alienum, ea eos nullam luptatum accusamus. Ea mel causae phaedrum reprimique, at vidisse dolores ocurreret nam splendide.</p></article>
+              </section>
+           <div class=" separador"></div>
+          <footer><p>Este es el pie de página, en su interior puedes escribir algo, como por ejemplo enlaces a los derechos de autor,
+          aviso legal...</p></footer>
+      </section>
+          </body>
+</html>

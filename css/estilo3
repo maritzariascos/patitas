@@ -1,0 +1,17 @@
+
+body
+{
+	<header
+}
+
+
+#footer {
+clear: both; 
+width:750px;
+text-align:center; 
+margin-left:auto; 
+margin-right:auto;
+margin:0 auto; 
+height: 65px; 
+background-color: #ffffff;
+}

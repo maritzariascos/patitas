@@ -1,0 +1,43 @@
+
+body
+h2
+{
+	text-align: center;
+	<font> 
+	color: #9c27b0; size:"60";font:="comicsam"; 
+	</font>
+}
+script
+{
+		slidesjs
+        width: 940,
+        height: 528
+}
+    
+strong
+{
+   column-count:4;
+   column-gap:20px;
+   column-rule:4px dotted gray;
+}
+strong
+{
+   column-count:4;
+   column-gap:20px;
+   column-rule:4px double black;
+   list-style: none;
+}
+
+
+#footer 
+{
+clear: both; 
+width:750px;
+text-align:center; 
+margin-left:auto; 
+margin-right:auto;
+margin:0 auto; 
+height: 65px; 
+background-color: #ffffff;
+background-image: center;
+}
